@@ -9,5 +9,4 @@ public interface UserService {
     void saveUser(User user);
     void deleteUser(int id);
     void updateUser(User user);
-    User getUser(int id);
 }
